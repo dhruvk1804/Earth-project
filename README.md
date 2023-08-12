@@ -1,1 +1,1 @@
-# Earth-project
+# Earth project
